@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gathaike" alt="gathaike" /></a> </p>
 
-- 🔭 I’m currently working as a freelancer
-- 🔭 I’m open to collaborating on any project.
+- 🔭 I’m currently working as a freelancer.
+- 🔭 I’m currently learning .Net / blockchain.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
