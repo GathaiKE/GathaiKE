@@ -8,7 +8,6 @@
 ---
 
 💡 **About Me**  
-- 🔭 Currently working as a **freelance developer** on full-stack projects.  
 - 🌱 Learning **.NET** and **Blockchain Development** to broaden my backend and decentralized systems expertise.  
 - 🚀 Passionate about building *scalable applications*, exploring *AI-powered solutions*, contributing to open-source projects and **having lots of fun while at it**.  
 
