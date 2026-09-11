@@ -42,19 +42,3 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://jestjs.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>
 </p>
-
----
-
-### 📊 GitHub Stats
-<p align="left">
-<p>
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gathaike&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gathaike&theme=tokyonight" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gathaike&theme=tokyonight" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gathaike&theme=tokyonight&utcOffset=3" />
-</p>
-</p>
