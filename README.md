@@ -1,44 +1,35 @@
-<h1 align="center">Hi 👋, I'm Brian Gathai</h1>
+<h1 align="center">Gathai Kariuki</h1>
 <h3 align="center">Full-Stack Developer | Problem Solver | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gathaike&label=Profile%20views&color=0e75b6&style=flat" alt="gathaike" />
+  Building scalable, maintainable software across the full stack.
 </p>
 
 ---
 
-💡 **About Me**  
-- 🌱 Learning **.NET** and **Blockchain Development** to broaden my backend and decentralized systems expertise.  
-- 🚀 Passionate about building *scalable applications*, exploring *AI-powered solutions*, contributing to open-source projects and **having lots of fun while at it**.  
+### About
+
+Software engineer with experience designing and delivering backend services, web applications, and data-driven systems. I focus on clean architecture, reliable delivery, and solutions that scale. Currently working with C# and .NET, and exploring blockchain development and AI-powered tooling.
+
+I'm always glad to connect with fellow engineers, collaborators, and anyone working on interesting problems. Feel free to reach out.
 
 ---
 
-### 🔗 Connect With Me  
+### Tech Stack
+
 <p align="left">
-<a href="https://linkedin.com/in/gathaikariuki" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gathaikariuki" height="30" width="40" />
-</a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="SQL" width="40" height="40"/></a>
 </p>
+
+**Languages:** C# · Python · JavaScript · SQL
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left"> 
-  <!-- Frontend -->
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  
-  <!-- Databases -->
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+### Connect
 
-  <!-- DevOps & Testing -->
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://jestjs.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/></a>
-</p>
+<a href="https://linkedin.com/in/gathaikariuki" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
